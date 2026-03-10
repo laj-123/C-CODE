@@ -18,10 +18,10 @@
     <ClCompile Include="1，字符指针.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="2，数组指针.c">
+    <ClCompile Include="2，数组指针%283.9%29.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="3，二维数组传参本质.c">
+    <ClCompile Include="3，二维数组传参本质%283.10%29.c">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="4，函数指针.c">
