@@ -1,0 +1,8 @@
+﻿  1，字符指针变量.c
+  2，数组指针变量.c
+  4，函数指针变量.c
+C:\Users\AHS\source\repos\深入理解指针（3）下半 3.13\深入理解指针（3）下半 3.13\1，字符指针变量.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\AHS\source\repos\深入理解指针（3）下半 3.13\深入理解指针（3）下半 3.13\4，函数指针变量.c(4,2): warning C4098: “Add”:“void”函数返回值
+C:\Users\AHS\source\repos\深入理解指针（3）下半 3.13\深入理解指针（3）下半 3.13\4，函数指针变量.c(8,8): warning C4133: “初始化”: 从“void (__cdecl *)(int,int)”到“int (__cdecl *)(int,int)”的类型不兼容
+  正在生成代码...
+  深入理解指针（3）下半 3.13.vcxproj -> C:\Users\AHS\source\repos\深入理解指针（3）下半 3.13\x64\Debug\深入理解指针（3）下半 3.13.exe
